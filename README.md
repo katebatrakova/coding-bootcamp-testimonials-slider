@@ -1,10 +1,10 @@
 # Actual Recreated Design - Tonya's Testimonial
 
-![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](https://github.com/katebatrakova/coding-bootcamp-testimonials-slider/blob/master/docs/john_review.png?raw=true)
+![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](https://github.com/katebatrakova/coding-bootcamp-testimonials-slider/blob/master/docs/tanya_review.png?raw=true)
 
 # Actual Recreated Design (Next Btn Clicked) - John's Testimonial
 
-![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](https://github.com/katebatrakova/coding-bootcamp-testimonials-slider/blob/master/docs/tanya_review.png?raw=true)
+![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](https://github.com/katebatrakova/coding-bootcamp-testimonials-slider/blob/master/docs/john_review.png?raw=true)
 
 # Expected Design - Frontend Mentor - Coding Bootcamp Testimonials Slider
 
