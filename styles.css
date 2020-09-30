@@ -2,10 +2,11 @@ body {
   background-image: url(./images/pattern-bg.svg);
   background-repeat: no-repeat;
   background-position: right 150px top 90px;
+  font-family: 'Inter', sans-serif;
+
 }
 
 #mainContainer {
-  font-family: 'Inter', sans-serif;
   display: flex;
   flex-direction: row;
   padding: 10% 15% 0
