@@ -1,0 +1,68 @@
+body {
+  background-image: url(./images/pattern-bg.svg);
+  background-repeat: no-repeat;
+  background-position: right 150px top 90px;
+}
+
+#mainContainer {
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  flex-direction: row;
+  padding: 10% 15% 0
+}
+
+
+#leftContainer {
+  background-image: url(./images/pattern-quotes.svg);
+  background-repeat: no-repeat;
+  align-self: center;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  width: 10%;
+  background-color: #FAFAFC;
+  border-radius: 25px;
+  height: 8%;
+  position: absolute;
+  bottom: 0;
+  right: 40%;
+  -webkit-box-shadow: 6px 19px 31px -8px rgba(110, 110, 110, 1);
+  -moz-box-shadow: 6px 19px 31px -8px rgba(110, 110, 110, 1);
+  box-shadow: 6px 19px 31px -8px rgba(110, 110, 110, 1);
+}
+
+.prev:hover,
+.next:hover {
+  cursor: pointer;
+}
+
+.prev svg:hover,
+.next svg:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+
+  box-shadow: 6px 19px 31px -8px rgba(110, 110, 110, 1);
+
+}
+
+.nextSlide {
+  display: none;
+}
+
+.testimonial {
+  font-size: 32px;
+  font-weight: 300;
+  color: hsl(240, 38%, 20%);
+}
+
+#name {
+  font-weight: 700;
+}
+
+#position {
+  font-weight: 500;
+  opacity: 0.5;
+}
